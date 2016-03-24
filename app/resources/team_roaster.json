@@ -1,0 +1,165 @@
+{
+  "team": {
+    "name": "GCC",
+    "teamCaptain": "Shanky Singh",
+    "teamCaptainId": "",
+    "teamScheduleURL": "",
+    "teamGroundAddress": "<>",
+    "teamGroundURL": "<url>",
+    "teamContacts": "",
+    "roaster": [
+      {
+        "playerName": "Harshal Deole",
+        "playerId": "1757",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+
+      },
+      {
+        "playerName": "Hardy Patel",
+        "playerId": "2887",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Varun Gajjar",
+        "playerId": "3788",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "AB De-Villers",
+        "playerId": "4667",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7B6jQUuVGHzdCqJqIR5IvbLcvx49KGL5AxVoaQuOqr0wsXerpoA",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "MS Dhoni",
+        "playerId": "1665",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Virat Kohli",
+        "playerId": "2556",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "R. Ashwin",
+        "playerId": "3554",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Ajinkya Rahane",
+        "playerId": "4455",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Shreyas Iyar",
+        "playerId": "5344",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Ishant Sharma",
+        "playerId": "1443",
+        "imageURL":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxu6n2hW6wfPf6EkARxP0_n1_jNCG15cXaooOGIeaAV-GwGv9",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Joe Burns",
+        "playerId": "2323",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Steve Smith",
+        "playerId": "3222",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Brendan McCullam",
+        "playerId": "4223",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Kane Williamson",
+        "playerId": "1235",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Joe Root",
+        "playerId": "0025",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Brendan McCullam",
+        "playerId": "4223",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Kane Williamson",
+        "playerId": "1235",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Joe Root",
+        "playerId": "0025",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Brendan McCullam",
+        "playerId": "4223",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Kane Williamson",
+        "playerId": "1235",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Joe Root",
+        "playerId": "0025",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Brendan McCullam",
+        "playerId": "4223",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Kane Williamson",
+        "playerId": "1235",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      },
+      {
+        "playerName": "Joe Root",
+        "playerId": "0025",
+        "imageURL":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTan88heIj4Rmjvuwql_vN40Jnbswxg7NvdlU4tQp21YavpDgSh",
+        "style":" Right Hand Bat , Right hand Bowl"
+      }
+    ],
+    "teamStatistic": {
+      "matches": "102",
+      "won": "58",
+      "lost": "43",
+      "tied": "1",
+      "winPercentage": "55"
+    }
+  }
+}

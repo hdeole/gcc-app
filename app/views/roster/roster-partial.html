@@ -1,0 +1,117 @@
+<style>
+  .app-modal-window .modal-dialog {
+    width:75%;
+  }
+  .thumbnail {margin-bottom:6px;}
+  .clearfix {
+    overflow: auto;
+  }
+  .thumbnail {
+    padding:30px;
+  }
+
+</style>
+<script type="text/ng-template" id="myModalContent.html">
+  <div class="modal-header col-md-12">
+    <h3 class="modal-title">{{playerProfile.name}}</h3>
+  </div>
+  <div class="modal-body">
+    <div class="container">
+      <div class="col-md-4"><h4>Date Of Birth : </h4> <p>10'th October 1982</p> </span></div>
+      <div class="col-md-4"><h4>Place : </h4> <p> Nagpur , India</p></div>
+      <div class="col-md-4"><h4>Social Presence :</h4> <p>Facebook ,twitter</p></div>
+      <div class="col-md-12"><h4>Fun Fact :</h4> <p>The .table-striped class adds zebra-striping to any table row within tbody (not available in IE8)
+                  The .table-striped class adds zebra-striping to any table row within tbody (not available in IE8):</p></div>
+      <div class="col-md-12">
+      <h4>Batting Statistics</h4>
+      <table class="table table-striped">
+        <thead>
+        <tr class="info">
+          <th>Matches</th>
+          <th>Total runs</th>
+          <th>Not Outs</th>
+          <th>50s</th>
+          <th>100s</th>
+          <th>4s/6s</th>
+          <th>High Score</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td>122</td>
+          <td>2233</td>
+          <td>44</td>
+          <td>21</td>
+          <td>4</td>
+          <td>121/12</td>
+          <td>115</td>
+          <!--<td>Anna</td>-->
+        </tr>
+
+        </tbody>
+      </table>
+        </div>
+      </div>
+      <div class="container">
+        <div class="col-md-12">
+        <h4>Bowling Statistics</h4>
+        <p>The .table-striped class adds zebra-striping to any table row within tbody (not available in IE8):</p>
+        <table class="table table-striped">
+          <thead>
+          <tr class="info">
+            <th>Matches</th>
+            <th>Wickets</th>
+            <th>Runs Conceded</th>
+            <th>5 wickets</th>
+            <th>Economy</th>
+            <th>Average</th>
+            <th>Best Performance</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+            <td>122</td>
+            <td>132</td>
+            <td>3212</td>
+            <td>12</td>
+            <td>4.43</td>
+            <td>20.34</td>
+            <td>5/16</td>
+            <!--<td>Anna</td>-->
+          </tr>
+
+          </tbody>
+        </table>
+        </div>
+    </div>
+
+
+    <!--Selected player: <b>{{ playerProfile.DateofBirth }}</b>-->
+
+  </div>
+  <div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-click="ok()">OK</button>
+    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+  </div>
+</script>
+
+
+<div class="row " ng-repeat="rows in playerRow" ng-controller="rosterCtrl" style="margin-left: 2%">
+
+    <div class="thumbnail col-md-2" ng-repeat="player in rows" >
+      <img src="{{player.imageURL}}"  class="img-responsive" width="220" height="220">
+      <div class="caption">
+        <h3>{{player.playerName}}</h3>
+        <p>{{player.style}}</p>
+        <p><a class="btn btn-primary" role="button" ng-click="open(player)">view
+          Profile</a></p>
+      </div>
+      <div class="clearfix hidden-sm-up"></div>
+    </div>
+</div>
+
+
+
+
+
+

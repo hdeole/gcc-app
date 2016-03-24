@@ -1,0 +1,105 @@
+{
+  "player": {
+    "name": "Harshal Deole",
+    "DateofBirth": "10/10/1982",
+    "pictureURL": "http://url.com",
+    "BattingStyle": "Right Hand Bat",
+    "BowlingStyle": "Right Hand Off-Spin",
+    "BattingStatistics": [
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Not Outs": "4",
+        "Total runs": "4",
+        "50s": "4",
+        "100s": "4",
+        "4s": "4",
+        "6s": "4",
+        "High Score": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Not Outs": "4",
+        "Total runs": "4",
+        "50s": "4",
+        "100s": "4",
+        "4s": "4",
+        "6s": "4",
+        "High Score": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Not Outs": "4",
+        "Total runs": "4",
+        "50s": "4",
+        "100s": "4",
+        "4s": "4",
+        "6s": "4",
+        "High Score": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Not Outs": "4",
+        "Total runs": "4",
+        "50s": "4",
+        "100s": "4",
+        "4s": "4",
+        "6s": "4",
+        "High Score": "4"
+      }
+    ],
+    "Bowling Statistics": [
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Wickets": "4",
+        "Runs Conceded": "4",
+        "5 wickets": "4",
+        "Economy": "4",
+        "Average": "4",
+        "Best Performance": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Wickets": "4",
+        "Runs Conceded": "4",
+        "5 wickets": "4",
+        "Economy": "4",
+        "Average": "4",
+        "Best Performance": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Wickets": "4",
+        "Runs Conceded": "4",
+        "5 wickets": "4",
+        "Economy": "4",
+        "Average": "4",
+        "Best Performance": "4"
+      },
+      {
+        "tournamentId":"223",
+        "Season":"2015-2016",
+        "matches": "23",
+        "Wickets": "4",
+        "Runs Conceded": "4",
+        "5 wickets": "4",
+        "Economy": "4",
+        "Average": "4",
+        "Best Performance": "4"
+      }
+    ]
+  }
+}

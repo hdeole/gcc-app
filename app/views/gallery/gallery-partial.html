@@ -1,0 +1,12 @@
+<div class="row " ng-repeat="rows in playerRow" ng-controller="rosterCtrl" style="margin-left: 2%">
+
+  <div class="thumbnail col-md-3" ng-repeat="player in rows" >
+    <img src="{{player.imageURL}}"  class="img-responsive" >
+    <div class="caption">
+      <!--<h3>{{player.playerName}}</h3>-->
+      <p>{{player.style}}</p>
+
+    </div>
+    <div class="clearfix hidden-sm-up"></div>
+  </div>
+</div>
